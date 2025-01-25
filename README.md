@@ -47,6 +47,16 @@ https://drive.google.com/drive/folders/1n0aXr7N7RUrTPLyCaqvgojDo-lhMazgG?usp=sha
   - Simple and attractive interface with animations.  
   - Functional buttons: Play, pause, reset, and restart.
 
+## SCREENSHOTS
+![image](https://github.com/user-attachments/assets/5574293d-1dcf-4b56-b3a1-49c6abad8056)
+
+![image](https://github.com/user-attachments/assets/1b6ab72f-bb4b-47e8-b79f-f0dd5426de8e)
+
+![Uploading image.png…]()
+
+
+
+
 ---
 
 #### **How to Use**  
